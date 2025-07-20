@@ -1,0 +1,7 @@
+Improve app's stability and guide new users with setup instructions
+
+Updates .gitignore to exclude env files, fixes websocket connection, and adds a README.md file.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: d8542d78-7fb2-4a25-898e-8a53c10fd0ef
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/428c554c-3049-489a-b96c-0927fe32526f/d8542d78-7fb2-4a25-898e-8a53c10fd0ef/Gi9sgNB
